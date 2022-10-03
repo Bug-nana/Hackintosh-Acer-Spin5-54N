@@ -37,10 +37,11 @@ Sep 2022, Opencore 0.8.3, compatible with macOS 12
 
 --------------------------------------------------------
 # Preperation before installing:
-##Make sure you have a USB mouse with you.
-##Create a USB installer for macOS according to Dortania's Opencore guide.
-##(I'm using a 32GB USB with the Rufus Method)
+#### Make sure you have a USB mouse with you.
+#### Create a USB installer for macOS according to Dortania's Opencore guide.
+#### (I'm using a 32GB USB with the Rufus Method)
 
+--------------------------------------------------------
 ## BIOS Setting:
 <details><summary>CLICK ME</summary>
 <p>
