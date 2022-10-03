@@ -1,29 +1,55 @@
 # Hackintosh-Acer-Spin5-54N
 Sep 2022, Opencore 0.8.3, compatible with macOS 12
 
-Spec:
-Operating System: macOS 12.6 Monterey & Windows 10
+# Spec:
 
-CPU: I5-8250U (Kaby-Lake)
-GPU: Intel UHD 620
-Audio: Realtak ALC 295 (w/ Intel Sunrise Point-LP HD Audio)
-Wi-Fi: Broadcom 94352Z
-Storage: Micron 1100 256GB SATA SSD
 
-Working peripherals:
-Almost everthing working 
+<details><summary>CLICK ME</summary>
+<p>
 
-EXCEPT:
-Using a touchpen on the monitor (Work in Windows but not macOS)
-BIOS (After installing both Opencore & Windows Boot Manager, I can't access the BIOS)
-USB Card Reader
-Fingerprint sensor
-HDMI Port (Working DP output by using the Type-C)
-Function key for toggling Wi-Fi
+#### CPU: I5-8250U (Kaby-Lake)
+#### GPU: Intel UHD 620
+#### Audio: Realtak ALC 295 (w/ Intel Sunrise Point-LP HD Audio)
+#### Wi-Fi: Broadcom 94352Z
+#### Operating System: macOS 12.6 Monterey & Windows 10
+</p>
+</details>
 
-Preperation before installing:
-Make sure you have a USB mouse with you.
-Create a USB installer for macOS according to Dortania's Opencore guide.
-(I'm using a 32GB USB with the Rufus Method)
 
-In BIOS, turn OFF 1.Secure BOOT 2.ENABLE VT-D & VT-X (This two will be handled in the ACPI patch) 3.(Optional) Reset BIOS to default setting
+--------------------------------------------------------
+
+# Not-working peripherals:
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Using a touchpen on the monitor (Work in Windows but not macOS)
+#### BIOS (After installing both Opencore & Windows Boot Manager, I can't access the BIOS)
+#### USB Card Reader
+#### Fingerprint sensor
+#### HDMI Port (Working DP output by using the Type-C)
+#### Function key for toggling Wi-Fi
+
+
+
+</p>
+</details>
+
+--------------------------------------------------------
+# Preperation before installing:
+##Make sure you have a USB mouse with you.
+##Create a USB installer for macOS according to Dortania's Opencore guide.
+##(I'm using a 32GB USB with the Rufus Method)
+
+## BIOS Setting:
+<details><summary>CLICK ME</summary>
+<p>
+  
+### turn OFF 
+#### 1. Secure BOOT 
+#### 2. ENABLE VT-D & VT-X (This two will be handled in the ACPI patch) 
+#### 3. (Optional) Reset BIOS to default setting
+
+
+</p>
+</details>
