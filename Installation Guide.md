@@ -16,4 +16,4 @@
 
 #### 5. Start installing macOS
 
-## [Post Installation](
+## [Post Installation](https://github.com/Bug-nana/Hackintosh-Acer-Spin5-54N/blob/main/Post%20Installation%20Guide.md)
