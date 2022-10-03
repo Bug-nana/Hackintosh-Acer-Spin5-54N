@@ -29,4 +29,4 @@ hda-verb 0x19 0x707 0x20
 
 #### 9. Reboot and your macOS is completed
 
-## [Windows Installation Guide]
+## [Windows Installation Guide](https://github.com/Bug-nana/Hackintosh-Acer-Spin5-54N/blob/main/Windows%20Installation%20Guide.md)
