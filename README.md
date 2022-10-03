@@ -51,6 +51,8 @@ Sep 2022, Opencore 0.8.3, compatible with macOS 12
 #### 2. ENABLE VT-D & VT-X (This two will be handled in the ACPI patch) 
 #### 3. (Optional) Reset BIOS to default setting
 
+### turn ON
+#### 1. F12 Boot Menu
 
 </p>
 </details>
