@@ -23,4 +23,10 @@ hda-verb 0x19 0x707 0x20
 
 #### 6. Fixing ROM [(Just follow this guide)](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#fixing-rom)
 
-#### 7. Reboot and your macOS is completed
+#### 7. Copy AppleALC.kext from EFI/OC/Kexts into /Library/Extension/
+
+#### 8. Download [MountEFI](https://github.com/corpnewt/MountEFI) and copy the EFI Folder from USB into EFI partition
+
+#### 9. Reboot and your macOS is completed
+
+## [Windows Installation Guide]
