@@ -55,4 +55,4 @@ Sep 2022, Opencore 0.8.3, compatible with macOS 12
 </p>
 </details>
 
-## Next: [Start your installation](https://github.com/Bug-nana/Hackintosh-Acer-Spin5-54N/blob/main/Installation%20Guide.md)
+## [Start your installation](https://github.com/Bug-nana/Hackintosh-Acer-Spin5-54N/blob/main/Installation%20Guide.md)
