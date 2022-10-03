@@ -1,13 +1,10 @@
 # Hackintosh-Acer-Spin5-54N
 Sep 2022, Opencore 0.8.3, compatible with macOS 12
 
-Welcome to this repository, I will provide you info about my Hackintosh Acer Spin 5.
-
 Spec:
 Operating System: macOS 12.6 Monterey & Windows 10
 
 CPU: I5-8250U (Kaby-Lake)
-RAM: 8GB DDR4 2400 Mhz
 GPU: Intel UHD 620
 Audio: Realtak ALC 295 (w/ Intel Sunrise Point-LP HD Audio)
 Wi-Fi: Broadcom 94352Z
