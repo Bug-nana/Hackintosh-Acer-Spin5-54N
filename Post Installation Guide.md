@@ -1,7 +1,7 @@
 ## Now you're in macOS
 
 #### 1. Go to download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) & [Opencore Configuator](https://mackie100projects.altervista.org/download-opencore-configurator/)
-#### 2. Use GenSMBIOS to generate a MacBookPro 14,3 config
+#### 2. Use GenSMBIOS to generate a **"MacBookPro14,3"** config
 --------------------
 ### 3. Use Opencore Configuator to enter the different values [(Tutorial)](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
 ### (**** Make Sure you have an "INVALID" Serial number)
